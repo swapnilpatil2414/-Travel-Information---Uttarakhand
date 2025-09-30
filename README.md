@@ -1,25 +1,31 @@
-# 🏔️ Explore Uttarakhand - Top 20 Tourist Spots  
+# 🌄 Explore Uttarakhand - Top 20 Places
 
-This is a **frontend travel website project** built using **HTML and CSS**.  
-The project highlights the **Top 20 tourist destinations of Uttarakhand**, with images, descriptions, and a contact form.  
+A responsive travel website showcasing the **Top 20 Tourist Places in Uttarakhand** 🏔️.  
+This project is built using **HTML5 + CSS3** with a clean, modern design and fully responsive layout.
 
 ---
 
-## 🚀 Features
-- Responsive **navigation bar** (Home, About, Destinations, Contact)  
-- Hero section with welcome message  
-- **About section** describing Uttarakhand  
-- **Destinations Grid** showcasing top 20 tourist spots with pictures & short info  
-- **Contact form** with name, email & message input  
-- Beautiful **modern UI** with background image and hover effects  
+## ✨ Features
+
+- 📌 Fixed navigation bar with smooth scrolling  
+- 🎆 Hero section with welcome banner  
+- 🏞️ Grid layout showing 20 must-visit destinations with images and details  
+- 📖 About section with state information  
+- 📬 Contact form with styled input fields  
+- 🎨 Custom dark theme with gradient background  
+- 📱 Mobile-friendly & responsive design
 
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5** – Structure of the website  
-- **CSS3** – Styling & responsive design  
-- **Google Fonts (Poppins)**  
+
+- **HTML5**  
+- **CSS3** (Flexbox + Grid)  
+- **Google Fonts** (Poppins)
 
 ---
 
-## 📂 Project Structure
+
+
+
+
